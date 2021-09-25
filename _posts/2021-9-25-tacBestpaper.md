@@ -10,6 +10,7 @@ paper: IEEE Transactions on Affective Computing(TAC) 18.
 categories: [Congratulations]
 ---
 祝贺论文获IEEE Transactions on Affective Computing期刊最佳论文。
+
 论文题目: Tengfei Song, Wenming Zheng, Peng Song, Zhen Cui. EEG emotion recognition using dynamical graph convolutional neural networks. IEEE Transactions on Affective Computing(TAC) 18.
 
 

@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Congratulations for Zhen Cui of paper accepted by T-PAMI 22!"
+description: "recent paper."
+tags: [Zhen Cui,Chunyan Xu]
+websites: [Teacher/CuiZhen,Teacher/XuChunyan]
+author: Zhen Cui, Ling Zhou, Chaoqun Wang, Chunyan Xu, and Jian Yang.
+paper_title: Visual Micro-Pattern Propagation.
+paper: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 22.
+categories: [Congratulations]
+---
+祝贺崔振的论文被T-MM 21收录。
+
+论文题目: Zhen Cui, Ling Zhou, Chaoqun Wang, Chunyan Xu, and Jian Yang. Visual Micro-Pattern Propagation, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2022.

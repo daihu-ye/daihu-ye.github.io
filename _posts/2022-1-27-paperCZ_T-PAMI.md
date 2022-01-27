@@ -9,6 +9,6 @@ paper_title: Visual Micro-Pattern Propagation.
 paper: IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 22.
 categories: [Congratulations]
 ---
-祝贺崔振的论文被T-MM 21收录。
+祝贺崔振的论文被T-PAMI 22收录。
 
 论文题目: Zhen Cui, Ling Zhou, Chaoqun Wang, Chunyan Xu, and Jian Yang. Visual Micro-Pattern Propagation, IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2022.

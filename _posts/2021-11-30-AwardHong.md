@@ -9,7 +9,6 @@ paper_title: 深度地图嵌入学习研究.
 paper:
 categories: [Congratulations]
 ---
-
 祝贺洪晓斌获江苏省计算机学会优秀硕士论文。
 
 论文题目: 深度图嵌入学习研究。

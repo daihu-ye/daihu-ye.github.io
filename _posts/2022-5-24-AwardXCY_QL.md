@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Congratulations for Chunyan Xu on winning the title of outstanding young backbone of Qinglan Project in Jiangsu Universities in 2022!"
-description: "outstanding young backbone of "Qinglan Project" in Jiangsu Universities."
+description: "outstanding young backbone of Qinglan Project in Jiangsu Universities."
 tags: [Chunyan Xu]
 websites: [Teacher/XuChunyan]
 author: Chunyan Xu.

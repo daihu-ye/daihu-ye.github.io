@@ -33,6 +33,8 @@ menu:
         url: '/pages/Teacher/ZhangTong'
       - title: 'Yong Li'
         url: '/pages/Teacher/LiYong'
+        - title: 'Wenhua Zhang'
+        url: '/pages/Teacher/ZhangWenhua'
   - title: 'Students'
     url: '/pages/Student'
   - title: 'Publications'

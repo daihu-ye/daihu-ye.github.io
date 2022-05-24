@@ -12,4 +12,3 @@ categories: [Congratulations]
 祝贺崔振的论文被T-MM 22收录。
 
 论文题目: Xin Liu, Jinhan Yi, Yiuming Cheung, Xing Xu, Zhen Cui. OMGH: Online Manifold-Guided Hashing for Flexible Cross-modal Retrieval. IEEE Transactions on Multimedia (T-MM) 22.
-

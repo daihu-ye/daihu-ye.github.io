@@ -5,8 +5,8 @@ description: "outstanding young backbone of "Qinglan Project" in Jiangsu Univers
 tags: [Chunyan Xu]
 websites: [Teacher/XuChunyan]
 author: Chunyan Xu.
-paper_title: None.
-paper: None.
+paper_title:  None.
+paper:  None.
 categories: [Congratulations]
 ---
 祝贺许春燕老师获2022年江苏高校“青蓝工程”优秀青年骨干称号。

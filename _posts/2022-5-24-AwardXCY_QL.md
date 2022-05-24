@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Congratulations for Yong Li, Lingjie Lao of paper accepted by T-IP 22!"
+title: "Congratulations for Chunyan Xu on winning the title of outstanding young backbone of "Qinglan Project" in Jiangsu Universities in 2022!"
 description: "recent paper."
 tags: [Yong Li,Lingjie Lao,Zhen Cui]
 websites: [Teacher/LiYong,Student/Master/LaoLingjie,Teacher/CuiZhen]

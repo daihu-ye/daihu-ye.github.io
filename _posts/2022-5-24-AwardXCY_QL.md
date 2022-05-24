@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Congratulations for Chunyan Xu of the title of outstanding young backbone of "Qinglan Project" in Jiangsu Universities 22!"
+title: "Congratulations for Chunyan Xu of the title of outstanding young backbone of Qinglan Project in Jiangsu Universities 22!"
 description: "recent paper."
 tags: [Yong Li,Lingjie Lao,Zhen Cui]
 websites: [Teacher/LiYong,Student/Master/LaoLingjie,Teacher/CuiZhen]
